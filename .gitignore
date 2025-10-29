@@ -1,0 +1,30 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build output
+*.test
+
+# Output of the go coverage tool
+*.out
+*.cov
+
+# Dependency directories
+vendor/
+
+# Go module cache
+GOMODCACHE=
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
