@@ -13,7 +13,7 @@ go-exercises/
 ├── .gitignore
 ├── LICENSE
 ├── exercises/           # All exercises and mini projects
-│   ├── 01-concurancy-read-file/
+│   ├── 01-line-counter-concurrent/
 │   │   ├── read_file.go
 │   │   ├── go.mod
 │   │   └── README.md
